@@ -1,5 +1,5 @@
 # Praktikum IF2111 Algoritma dan Struktur Data STI
-Repo ini berisi file praktikum mata kuliah IF2111 Algoritma dan Struktur Data STI tahun 2022. Pada repo ini, terdapat seluruh file praktikum dari praktikum pertama hingga praktikum terakhir, yang meliputi soal pra-praktikum maupun praktikum, jawaban benar pra-praktikum, dan jawaban benar praktikum.
+Repo ini berisi file praktikum mata kuliah IF2111 Algoritma dan Struktur Data STI tahun 2022. Praktikum Algoritma dan Struktur Data ini menggunakan bahasa pemrograman C. Pada repo ini, terdapat seluruh file praktikum dari praktikum pertama hingga praktikum terakhir, yang meliputi soal pra-praktikum maupun praktikum beserta jawaban benar.
 
 ## Topik Praktikum
 Berikut merupakan topik praktikum dari awal hingga praktikum terakhir.
